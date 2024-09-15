@@ -14,17 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=gopal0611&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=NINTUTO&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gopal0611/gopal0611/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NINTUTO/NINTUTO/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gopal0611.gopal0611&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NINTUTO.NINTUTO&"  />
 </div>
